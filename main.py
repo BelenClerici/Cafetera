@@ -1,8 +1,7 @@
 print("Bienvenidos")
 print("Fin")
 print("FFFFFFFF")
-print(*****)
-
-
-
+print("se agregaron lineas de codigo")
+print(" salirrrrrrrrr")
+print("##############")
 print("chauuuuu")
